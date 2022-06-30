@@ -20,9 +20,9 @@ public class Conexion
 	long tiempo_inicio = -1;
   	long tiempo_total = 0;
   	
-  	private final static String url ="jdbc:mysql://localhost:3307/gestion_inventario";//local
-	private String usuario="programacionwebc";	
-	private String password="web2022";
+  	private final static String url ="jdbc:mysql://o44zk2uydl5wfiz7:pvg5sdc27bkqu1hw@n4m3x5ti89xl6czh.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ma3xlxo1aeq8rc35";//local
+	private String usuario="o44zk2uydl5wfiz7";	
+	private String password="pvg5sdc27bkqu1hw";
 	private final static String driver = "com.mysql.jdbc.Driver";			
 	private String error;
 		
